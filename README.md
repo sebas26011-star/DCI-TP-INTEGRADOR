@@ -1,17 +1,16 @@
 ## Trabajo práctico final de la asignatura DCI ##
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
-* Autor: XXXXCOMPLETARXXXX
-* Título corto del trabajo:  XXXXCOMPLETARXXXX
-* Descripción:  XXXXCOMPLETARXXXX (Debe aclarar la función y el objetivo del cto.)
-* Cursada: OCT-NOV-DIC 2026
+* Autor: Juan Sebastian Pinto Fuentes
+* Título corto del trabajo:  charger-booster module
+* Descripción:  circuito cargagor y subidor de voltaje para baterias de litio 18650
+* Cursada: NOV-DIC 2026
 
 
 ## Licencia de este trabajo ##
-XXXMENCIONAR ACÁ LA LICENCIAXXX (Editar este párrafo) 
-Y además colcar el archivo de texto de la misma en el directorio raíz.
-Para este TP se pide que la licencia sea de hardware abierto.
-Ver la sección "What license should I use?": https://www.oshwa.org/faq/
+CERN-OHL-P-2.0
+El presente proyecto se distribuye bajo la licencia CERN Open Hardware Licence Version 2.0 – Permissive (CERN-OHL-P-2.0). Esta licencia de hardware abierto permite utilizar, estudiar, fabricar, modificar y distribuir el diseño del circuito electrónico, tanto para fines académicos como comerciales, sin exigir que las modificaciones o trabajos derivados se publiquen bajo la misma licencia.
+Ver archivo LICENSE.txt
 
 ## Estructura del TP FINAL ##
 

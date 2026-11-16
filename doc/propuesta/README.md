@@ -1,8 +1,3 @@
 ## Propuesta ##
-En este directorio debe ir OBLIGATORIAMENTE la información que se presentó al momento de acordar la propuesta de TP con el docente. Es decir:
-* Fotos e imágenes de las placas de ambos lados si es una réplica. 
-* Fotos e imágenes de los prototipos cableados o pruebas si es un trabajo de tesis.
-* Urls o info de origen. 
-* Circuito esquemático de referencia (si es una réplica) o borrador si es un trabajo de tesis.
-* Resumen de la función u objetivo del circuito si es un trabajo de tesis.
-* Cualquier otra nota que se haya usado para definir el TP en el formulario de propuesta.
+El circuito tiene como objetivo desarrollar un módulo de alimentación portátil basado en una batería recargable de ion-litio tipo 18650, que integre las funciones de carga y elevación de tensión en una misma tarjeta electrónica. El sistema utiliza el integrado TP4056 para gestionar la carga de la batería mediante un método de corriente constante y tensión constante (CC/CV), y el convertidor elevador FP6291 para transformar la tensión de la batería (aproximadamente 3,7 V) en una salida regulada de 5 V DC. De esta manera, el módulo permite almacenar energía eléctrica y suministrarla posteriormente a dispositivos y proyectos electrónicos que requieran una alimentación estable, ofreciendo una solución compacta, portátil y reutilizable.
+URL modulo original: https://circuitdigest.com/electronic-circuits/how-to-build-a-18650-lithium-battery-charger-and-booster-module
